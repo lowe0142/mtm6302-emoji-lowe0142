@@ -19,3 +19,9 @@ p {
 code {
     background-color: lightgray;
 }
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
